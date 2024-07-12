@@ -38,29 +38,3 @@ This project manages scores for multiple matches using HTML, vanilla JavaScript,
 ## Dependencies
 
 - Redux (loaded via CDN)
-
-## Contribution
-
-Feel free to fork this repository and submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Example HTML Structure
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Match Score Manager</title>
-  </head>
-  <body>
-    <!-- Add your HTML structure here -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/redux/4.1.1/redux.min.js"></script>
-    <script src="index.js"></script>
-  </body>
-</html>
-```
